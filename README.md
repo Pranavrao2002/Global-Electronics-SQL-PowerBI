@@ -114,7 +114,7 @@ The top-performing products contribute significantly to overall revenue and prof
 
 ### Sales & Profit Analysis
 
-![Sales & Profit Analysis](Global-Electronics-Sales%20%26%20Profit%20Analysis.png)
+![Sales & Profit Analysis](Executive_Overview.png)
 
 ### Product & Brand Analysis
 
