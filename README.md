@@ -114,7 +114,7 @@ The top-performing products contribute significantly to overall revenue and prof
 
 ### Sales & Profit Analysis
 
-![Sales & Profit Analysis](./screenshots/sales-profit-analysis.png)
+![Sales & Profit Analysis](Executive_Overview.png.png)
 
 ### Product & Brand Analysis
 
@@ -135,23 +135,24 @@ Global-Electronics-SQL-PowerBI/
 │
 ├── Global Electronic Retail Dashboard.pbix
 │
-├── Global-Electronics-Sales & Profit Analysis.png
+├── Executive_Overview.png.png
 │
 └── Product & Brand Analysis.png
+```
 
-🎯 Business Objective
+## 🎯 Business Objective
 
 The main objective of this project is to demonstrate how SQL and Power BI can be used together to analyze business data and support data-driven decision making.
 
 The analysis helps identify:
 
-High-performing product categories
-Revenue and profit drivers
-Top-performing products and brands
-Profitability differences across categories
-Overall sales performance
+- High-performing product categories
+- Revenue and profit drivers
+- Top-performing products and brands
+- Profitability differences across categories
+- Overall sales performance
 
-👤 Author
+## 👤 Author
 
 Pranav Rao
 
