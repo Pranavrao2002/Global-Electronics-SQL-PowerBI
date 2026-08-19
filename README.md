@@ -114,7 +114,7 @@ The top-performing products contribute significantly to overall revenue and prof
 
 ### Sales & Profit Analysis
 
-![Sales & Profit Analysis](Executive_Overview.png)
+![Sales & Profit Analysis](./screenshots/Sales & Profit Analysis.png)
 
 ### Product & Brand Analysis
 
